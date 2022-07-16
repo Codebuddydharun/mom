@@ -1,0 +1,56 @@
+.menu{
+    list-style: none;
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    top: 0px;
+    margin-top: 0px;
+    background-color: white;
+    width: 100%;
+}
+
+.list{
+    padding-left: 30px;
+    padding-right:25px;
+    font-size: 20px;
+    display: inline;
+}
+
+
+body{
+    text-align: center;
+    margin: 0px;
+}
+#img1{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    height: 300px;
+    
+}
+
+.div2{
+    text-align: center;
+    vertical-align: middle;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#span1{
+    font-family: "Itim"
+}
+
+.Welcome{
+    font-weight: 300px;
+    height: 800px;
+    width: 100%;
+    background-color: aqua;
+    z-index: 9;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: table;
+}
+
